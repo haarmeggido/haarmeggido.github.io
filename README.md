@@ -1,3 +1,24 @@
+# Student Simulator
+
+Student Simulator to prosta gra typu clicker
+stworzona w celu umilania czasu na przydługich wykładach
+oraz dzień przed kolokwium na które się nie uczyłeś.
+Jedyną rzeczą oddzielającą naszą grę od innych tego typu
+jest to, że jest ona również text-based adventure.
+Wszystkie akcje można wykonać wpisując odpowiednią komendę
+do wiersza poleceń.
+Gra jest przeznaczona dla wszystkich zainteresowanych, znudzonych,
+lub po prostu szukających nowej rozrywki w tym okresie bez wciągających
+i angażujących gier.
+
+
+Produkt można pobrać ze strony https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Aezakmi
+Należy stamtąd pobrać plik StudentSimulatorClicker.exe . Do uruchomienia nie jest potrzebny żaden zewnętrzny program.
+
+
+
+
+
 # Portfolio one page template - ARCHIVED
 
 Flat and responsive website template, designed and coded by [Maxim Orlov](https://github.com/orlovmax).
