@@ -15,6 +15,11 @@ i angażujących gier.
 Produkt można pobrać ze strony https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Aezakmi
 Należy stamtąd pobrać plik StudentSimulatorClicker.exe . Do uruchomienia nie jest potrzebny żaden zewnętrzny program.
 
+# stronki innych z teamu
+
+1. https://eniterusx.github.io/
+2. https://didgetpl.github.io/
+
 
 
 
